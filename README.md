@@ -100,7 +100,7 @@ Instead of standard stock UI components, the visual identity was established usi
 ---
 
 ## 🎨 Design Reference
-Designs were generated using **Stitch** and **Figma Make**.  
+Designs were generated using **Stitch**.  
 View Design Assets: [Google Drive Link](https://drive.google.com/drive/folders/1RVF6veqMh0gIws39AnqdM8VjQoGUI72I?usp=sharing)
 
 Developed with ❤️ and **AI** by Stan Avil Dsouza

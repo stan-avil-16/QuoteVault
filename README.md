@@ -41,43 +41,43 @@ Instead of standard stock UI components, the visual identity was established usi
 
 ## ✨ Feature Requirements Checklist
 
-### **1. Authentication & User Accounts** (15/15)
+### **1. Authentication & User Accounts**
 - [x] Sign up with Email/Password.
 - [x] Secure Login/Logout flow.
 - [x] Professional Profile screen with 12 selectable avatar presets.
 - [x] Secure Password Update flow (requires current password verification).
 - [x] **Session Persistence:** Users stay logged in across app restarts.
 
-### **2. Quote Browsing & Discovery** (20/20)
+### **2. Quote Browsing & Discovery**
 - [x] High-performance home feed with editorial "Quote of the Day" hero.
 - [x] Browse by 5+ categories (Motivation, Love, Success, Wisdom, Humor).
 - [x] **Real-time Search:** Filter quotes by keyword or author instantly.
 - [x] Pull-to-refresh data synchronization.
 - [x] Graceful loading and empty states.
 
-### **3. Favorites & Collections** (15/15)
+### **3. Favorites & Collections**
 - [x] One-tap "Favorite" functionality with cloud sync.
 - [x] Dedicated "Vault" screen for managing curated content.
 - [x] Create and manage custom collections (e.g., "Morning Motivation").
 - [x] Add/Remove quotes from collections with instant UI updates.
 
-### **4. Daily Quote & Notifications** (10/10)
+### **4. Daily Quote & Notifications**
 - [x] "Quote of the Day" changes daily based on a date-seeded algorithm.
 - [x] Local push notifications for the daily quote.
 - [x] **Custom Schedule:** Set preferred notification time in settings.
 - [x] Android 13+ permission handling.
 
-### **5. Sharing & Export** (10/10)
+### **5. Sharing & Export**
 - [x] Share quote as plain text via system sheet.
 - [x] **Generate Quote Cards:** Dynamically render quotes onto styled image backgrounds.
 - [x] Save generated cards directly to device storage.
 
-### **6. Personalization & Settings** (10/10)
+### **6. Personalization & Settings**
 - [x] Dark Mode / Light mode support.
 - [x] **Dynamic Scaling:** Real-time font size adjustment that affects the entire app typography.
 - [x] Settings persist locally and sync to the user's Supabase profile.
 
-### **7. Widget** (10/10)
+### **7. Widget**
 - [x] Home screen widget built with Glance.
 - [x] Displays the current "Quote of the Day" clearly.
 - [x] Tapping the widget launches the app directly.
@@ -100,6 +100,7 @@ Instead of standard stock UI components, the visual identity was established usi
 ---
 
 ## 🎨 Design Reference
-Designs were generated using **Stitch**. Link: [Stitch Project Placeholder]
+Designs were generated using **Stitch** and **Figma Make**.  
+View Design Assets: [Google Drive Link](https://drive.google.com/drive/folders/1RVF6veqMh0gIws39AnqdM8VjQoGUI72I?usp=sharing)
 
-Developed with ❤️ and **AI** by [Your Name]
+Developed with ❤️ and **AI** by Stan Avil Dsouza

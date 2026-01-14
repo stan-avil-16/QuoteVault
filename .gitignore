@@ -1,0 +1,28 @@
+# ===== Android / Gradle =====
+.gradle/
+build/
+**/build/
+
+# ===== Android Studio =====
+.idea/
+*.iml
+*.ipr
+*.iws
+local.properties
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
+
+# ===== Java heap dumps (IMPORTANT) =====
+*.hprof
+
+# ===== Kotlin / JVM =====
+out/
+
+# ===== Keystore (security) =====
+*.jks
+*.keystore

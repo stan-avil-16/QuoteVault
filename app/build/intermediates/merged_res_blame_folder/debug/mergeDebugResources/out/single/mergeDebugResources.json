@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.quotevault.app-debug-4:/xml_file_paths.xml.flat",
+        "source": "com.example.quotevault.app-main-6:/xml/file_paths.xml"
+    }
+]

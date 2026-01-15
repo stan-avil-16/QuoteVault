@@ -1,5 +1,7 @@
 # QuoteVault 🏛️
 
+**🎨 Design Reference:** [Stitch Project Dashboard](https://drive.google.com/drive/folders/1RVF6veqMh0gIws39AnqdM8VjQoGUI72I?usp=sharing) | [App UI & Functionality Screenshots](https://drive.google.com/drive/folders/1_Yt8LW1nt51NJCA97eIktdw5coJQxlud?usp=sharing)
+
 **QuoteVault** is a premium, full-featured mobile application designed for quote discovery, curation, and personalization. Built with a "Design-First" philosophy and powered by AI, the app offers a sophisticated editorial experience for inspiration seekers.
 
 ---
@@ -98,9 +100,5 @@ Instead of standard stock UI components, the visual identity was established usi
 3. Deploy to an Android device or emulator.
 
 ---
-
-## 🎨 Design Reference
-Designs were generated using **Stitch**.  
-View Design Assets: [Google Drive Link](https://drive.google.com/drive/folders/1RVF6veqMh0gIws39AnqdM8VjQoGUI72I?usp=sharing)
 
 Developed with ❤️ and **AI** by Stan Avil Dsouza
